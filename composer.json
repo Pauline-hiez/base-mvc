@@ -1,0 +1,16 @@
+{
+    "name": "hiezp/mvc-mini",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pauline-hiez",
+            "email": "pauline.hiez@laplateforme.io"
+        }
+    ],
+    "require": {}
+}
