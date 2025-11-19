@@ -12,5 +12,7 @@
             "email": "pauline.hiez@laplateforme.io"
         }
     ],
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
 }
